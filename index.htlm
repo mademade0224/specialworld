@@ -1,0 +1,82 @@
+<!DOCTYPE>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>2026/08/27</title>
+  <link rel="stylesheet" href="style">
+</head>
+<body>
+ <h1>2026/08/26</h1>
+ <h2>第1回二年冬</h2>
+<div class="table-wrapper">
+  <table border="1">
+    <tr>
+      <th>ランキング</th>
+      <th>なまえ</th>
+    </tr>
+    <tr>
+      <td>１</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>２</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>３</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>４</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>５</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>６</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>７</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>８</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>９</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>１０</td>
+      <td>ボブ</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>１１</td>
+      <td>ボブ</td>
+    </tr>
+  </table>
+</div>
+
+<script>
+document.oncontextmenu = function() {
+  alert("右クリックは禁止です！");
+  return false;
+};
+</script>
+
+</body>
+</html>
